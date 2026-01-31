@@ -25,5 +25,5 @@ Python · LangGraph · OpenAI SDK · Claude SDK · Gemini SDK
 Pinecone · FAISS · n8n · REST APIs · GitHub
 
 ## Contact
-📧 Email: hassandawood.dev@gmail.com  
+📧 Email: hassanagenticai@gmail.com
 🌍 Location: Pakistan (Remote-friendly)
